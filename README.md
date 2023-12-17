@@ -8,7 +8,7 @@ At AllinLabs, we embrace innovation, collaboration, and a shared passion for tec
 
 ## What to Expect
 
-🤝 **Community Collaboration:** Get ready to connect with like-minded individuals, share your knowledge, and collaborate on exciting projects.
+🤝 **Community Collaboration:** Get ready to connect with like-minded individuals, share your web3 knowledge, and collaborate on exciting web3 projects.
 
 🚀 **Innovative Projects:** Explore and contribute to innovative projects that push the boundaries of technology.
 
