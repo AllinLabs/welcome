@@ -1,5 +1,7 @@
 # Welcome to AllinLabs! 🌟
 
+![watercolor of rocky staying alive -- DALLE (original, digital ink)](./watching.gif "watercolor of rocky staying alive -- DALLE (original, digital ink)")
+
 Hello and a warm welcome to AllinLabs! 🎉 We're thrilled to have you join our community of creative minds and tech enthusiasts. 🚀
 
 ## About AllinLabs
